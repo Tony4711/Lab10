@@ -1,0 +1,4 @@
+
+class adjList {
+		Edge head;
+	}
